@@ -1,2 +1,11 @@
-C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\controllers\Application.java
-C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\controllers\GreetingController.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\Application.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\model\Role.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\controller\LoginController.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\model\User.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\repository\UserRepository.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\GreetingController.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\configuration\WebMvcConfig.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\service\UserServiceImpl.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\configuration\SecurityConfiguration.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\repository\RoleRepository.java
+C:\Users\tomba\Desktop\ServingWebContent\src\main\java\com\studios519\service\UserService.java

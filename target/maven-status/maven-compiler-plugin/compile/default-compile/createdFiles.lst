@@ -1,2 +1,11 @@
-com\studios519\controllers\GreetingController.class
-com\studios519\controllers\Application.class
+com\studios519\model\User.class
+com\studios519\repository\UserRepository.class
+com\studios519\repository\RoleRepository.class
+com\studios519\configuration\WebMvcConfig.class
+com\studios519\GreetingController.class
+com\studios519\service\UserServiceImpl.class
+com\studios519\service\UserService.class
+com\studios519\configuration\SecurityConfiguration.class
+com\studios519\controller\LoginController.class
+com\studios519\model\Role.class
+com\studios519\Application.class
