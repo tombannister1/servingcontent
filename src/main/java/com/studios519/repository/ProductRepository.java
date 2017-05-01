@@ -6,6 +6,6 @@ import java.util.List;
 
 public interface ProductRepository extends  CrudRepository<Product, Long> {
     @Transactional
-    Long deleteByid(int id);
+    Long deleteByid(Long id);
     List<Product> findByid(int id);
 }

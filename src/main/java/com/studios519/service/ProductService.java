@@ -6,6 +6,6 @@ import com.studios519.model.Product;
 public interface ProductService {
     public void saveProduct(Product product);
     public void update(Product product);
-    public void deleteByid(int id);
+    public void deleteByid(Long id);
     public void findByid(int id);
 }
